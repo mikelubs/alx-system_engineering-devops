@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -na -al)"
+echo "$(ls -na)"
