@@ -41,3 +41,5 @@
 `Replace all characters A and c from input to Z and e respectively.`
 #### 20. Without C, you would live in hiago
 `script that removes all letters c and C from input.`
+#### 21. esreveR
+`a script that reverse its input.`
