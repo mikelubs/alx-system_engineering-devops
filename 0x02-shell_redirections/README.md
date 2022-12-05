@@ -13,3 +13,5 @@
 `display the first 10 lines of /etc/passwd`
 #### 6. Third Line
 `Display third line of a file`
+#### 7. It is a good file that cuts iron without making a noise
+`creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School`
