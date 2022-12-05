@@ -19,3 +19,5 @@
 `script that writes into the file ls_cwd_content the result of the command ls -la`
 #### 9. Duplicate last line
 `Duplicates last line of iacta`
+#### 10. No more Javascript
+`Script that deletes files, in cwd and its subfolders ending in .js`
