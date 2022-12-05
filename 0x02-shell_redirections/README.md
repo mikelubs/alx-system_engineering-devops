@@ -1,3 +1,2 @@
 # Shell Redirections scripts
-### 0. 0-hello_world: 
-#### Prints Hello world
+### 0. 0-hello_world: `prints hello world`
