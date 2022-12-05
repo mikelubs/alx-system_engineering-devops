@@ -23,3 +23,5 @@
 `Script that deletes files, in cwd and its subfolders ending in .js`
 #### 11. Don't just count your directories, make your directories count
 `script that counts the number of directories and sub-directories in the current directory.`
+#### 12-newest_files
+`a script that displays the 10 newest files in the current directory.`
