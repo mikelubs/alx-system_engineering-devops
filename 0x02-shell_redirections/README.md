@@ -21,3 +21,5 @@
 `Duplicates last line of iacta`
 #### 10. No more Javascript
 `Script that deletes files, in cwd and its subfolders ending in .js`
+#### 11. Don't just count your directories, make your directories count
+`script that counts the number of directories and sub-directories in the current directory.`
