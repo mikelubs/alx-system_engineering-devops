@@ -43,3 +43,5 @@
 `script that removes all letters c and C from input.`
 #### 21. esreveR
 `a script that reverse its input.`
+#### 22. DJ Cut Killer
+`a script that displays all users and their home directories, sorted by users`
