@@ -15,3 +15,5 @@
 `Display third line of a file`
 #### 7. It is a good file that cuts iron without making a noise
 `creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School`
+#### 8. Save current state of directory
+`script that writes into the file ls_cwd_content the result of the command ls -la`
