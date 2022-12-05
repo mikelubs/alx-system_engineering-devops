@@ -7,3 +7,5 @@
 `Displays the content of the /etc/passwd file.`
 #### 3. Two files
 `Displays the contents of /etc/passwd and /etc/hosts`
+#### 4. Last lines
+`display the last 10 lines of /etc/passwd`
