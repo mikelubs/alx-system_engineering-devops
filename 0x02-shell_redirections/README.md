@@ -11,3 +11,5 @@
 `display the last 10 lines of /etc/passwd`
 #### 5. First lines
 `display the first 10 lines of /etc/passwd`
+#### 6. Third Line
+`Display third line of a file`
